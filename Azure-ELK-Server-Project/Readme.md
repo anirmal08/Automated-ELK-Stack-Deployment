@@ -37,7 +37,7 @@ The configuration details of each machine may be found below.
 
 The machines on the internal network are not exposed to the public Internet.
 
-Only the `Jumpbox and Elkserver` machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:`My own 142.XXX.XXX.183`
+Only the `Jumpbox and Elkserver` machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:`My own 72.137.13.201`
 
 Machines within the network can only be accessed by `Jumpbox: 10.0.0.4`.
 
