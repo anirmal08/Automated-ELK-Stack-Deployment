@@ -89,8 +89,8 @@ SSH into the control node and follow the steps below:
 
 ### Screenshots :tada:
 
-![Filebeat Kibana](/images/Filebeat.png)
+![Filebeat Kibana](https://github.com/anirmal08/Automated-ELK-Stack-Deployment/blob/master/Azure-ELK-Server-Project/images/Filebeat.png)
 
-![Metricbeat Kibana](/images/Metricbeat.png)
+![Metricbeat Kibana](https://github.com/anirmal08/Automated-ELK-Stack-Deployment/blob/master/Azure-ELK-Server-Project/images/Metricbeat.png)
 
 
