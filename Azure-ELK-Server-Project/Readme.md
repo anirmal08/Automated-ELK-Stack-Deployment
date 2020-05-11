@@ -84,6 +84,7 @@ SSH into the control node and follow the steps below:
 - Copy the [filebeat.yml](/ansibleplaybooks/filebeat.yml), [metricbeat.yml](/ansibleplaybooks/metricbeat.yml) to `/etc/ansible` and update the ip address for kibana and elastic search with elk vm ip address.
 - Update the hosts file to include ip address of elk server VM to install elk servers
 - Run the playbook, and navigate to http://13.90.56.154:5601 to check that the installation worked as expected.
+![ELK installation](https://github.com/anirmal08/Automated-ELK-Stack-Deployment/blob/master/Azure-ELK-Server-Project/images/ELK%20deployment.png)
 - Update the hosts file to include ip address of DVWA machines to install filebeat and metricbeat
 - Run the playbook for filebeat and metricbeat and http://13.90.56.154:5601 and check whether filebeat and metric beat dashboard are generated.
 
