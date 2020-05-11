@@ -50,7 +50,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because `automation needs less efforts and can be scripted to run deployment on different machines at the same time.`
+Ansible was used to automate configuration of the ELK machine. No manual configuration which is of advantage, because it will be automated and can be deployed on mutliple machines at the same time.
 
 The playbook implements the following tasks on the host machine:
 - Install docker
@@ -65,7 +65,6 @@ The following screenshot displays the result of running `docker ps` after succes
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
-
 - ELK: 10.0.0.6
 
 We have installed the following Beats on these machines:
